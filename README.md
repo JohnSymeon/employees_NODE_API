@@ -23,7 +23,7 @@ The implemented CRUD operations are demonstrated below;
 
 
 
-<h2>1) POST request: the employee's name and their occupation are added in JSON format as the body of the equest</h2>
+<h2>1) POST request: the employee's name and their occupation are added in JSON format as the body of the request</h2>
 
 ![POST](https://github.com/JohnSymeon/employees_NODE_API/assets/125981941/70bfc656-52ba-400d-8be1-d61a383195a3)
 
